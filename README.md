@@ -9,7 +9,7 @@ resrec:///U-APnda/R-3dac5cc9-cb18-4f20-bae3-b0c739379ae3
 To change the CloudVariable that you spawn the avatar from:
 1. Inspect the facet
 1. Select the button in the UI
-1. Change the path on the `CloudVarValue<Uri>` component to your desired variable. 
+1. Change the path on the `CloudValueVariable<Uri>` component to your desired variable. 
 
 
 
