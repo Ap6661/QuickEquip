@@ -4,7 +4,7 @@ A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoade
 # Important!
 To get a copy of the default facet place this link in game.
 ```
-resrec:///U-APnda/R-3dac5cc9-cb18-4f20-bae3-b0c739379ae3
+resrec:///U-APnda/R-EC7DEF4EE9747757246D1CE7BCE4CA8F8ABA334A3C72403E6C38D62F1349A5BA
 ```
 To change the CloudVariable that you spawn the avatar from:
 1. Inspect the facet
